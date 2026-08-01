@@ -348,7 +348,7 @@ const PRODUCTOS = [
     colores:[
       { nombre:"Negro", hex:"#111111", imagenes:[
         "assets/productos/dbzxnxr/g1.webp",
-        "assets/productos/dbzxnxr/g2.web",
+        "assets/productos/dbzxnxr/g2.webp",
         "assets/productos/dbzxnxr/g3.webp",
         "assets/productos/dbzxnxr/g4.webp",
       ]},
@@ -363,7 +363,7 @@ const PRODUCTOS = [
     colores:[
       { nombre:"Negro", hex:"#111111", imagenes:[
         "assets/productos/dbzxnxr/b1.webp",
-        "assets/productos/dbzxnxr/b2.web",
+        "assets/productos/dbzxnxr/b2.webp",
         "assets/productos/dbzxnxr/b3.webp",
         "assets/productos/dbzxnxr/b4.webp",
       ]},
@@ -378,7 +378,7 @@ const PRODUCTOS = [
     colores:[
       { nombre:"Negro", hex:"#111111", imagenes:[
         "assets/productos/dbzxnxr/gb1.webp",
-        "assets/productos/dbzxnxr/gb2.web",
+        "assets/productos/dbzxnxr/gb2.webp",
         "assets/productos/dbzxnxr/gb3.webp",
         "assets/productos/dbzxnxr/gb4.webp",
       ]},

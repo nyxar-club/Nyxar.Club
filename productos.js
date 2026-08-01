@@ -60,7 +60,7 @@ const STORE_CONFIG = {
 const COLECCIONES = [
   { id:"basica",    nombre:"Colección Básica"    },
   { id:"estelar",   nombre:"Colección Estelar"   },
-  { id:"***", nombre:"***"            },
+  { id:"dbzxnxr", nombre:"DBZ x NXR"            },
   { id:"nooc",      nombre:"NXR Outlaw Club"      },
   { id:"2x1",       nombre:"Colección 2×1"        },
   { id:"sivarx",    nombre:"SivarxNyxar"          },
@@ -343,82 +343,49 @@ const PRODUCTOS = [
      DBZNXR — todas agotadas
   ═══════════════════════════════════ */
   {
-    id:301, nombre:"G***", coleccion:"***", categoria:"prendas",
-    precio:99.99, precioTachado:1000.00,
+    id:301, nombre:"Gohan X", coleccion:"dbzxnxr", categoria:"prendas",
+    precio:30.75, precioTachado:45.00,
     colores:[
       { nombre:"Negro", hex:"#111111", imagenes:[
-        "assets/productos/hallownyx/calabaza-negro-1.webp",
-        "assets/productos/hallownyx/calabaza-negro-2.webp",
+        "assets/productos/dbzxnxr/g1.webp",
+        "assets/productos/dbzxnxr/g2.web",
+        "assets/productos/dbzxnxr/g3.webp",
+        "assets/productos/dbzxnxr/g4.webp",
       ]},
     ],
     tallas:["XS","S","M","L","XL"], cortes:["Regular","Oversize","Boxy"],
-    descripcion:"Edición especial Hallownyx.",
-    masVisto:false, destacado:false, disponible:false, linkPago:"#",
+    descripcion:"La furia que llevas dentro se nota.",
+    masVisto:false, destacado:false, disponible:true, linkPago:"#",
   },
   {
-    id:302, nombre:"V*****", coleccion:"***", categoria:"prendas",
-    precio:99.99, precioTachado:1000.00,
+    id:302, nombre:"Broly X", coleccion:"dbzxnxr", categoria:"prendas",
+    precio:30.75, precioTachado:45.00,
     colores:[
       { nombre:"Negro", hex:"#111111", imagenes:[
-        "assets/productos/hallownyx/fantasma-negro-1.webp",
-        "assets/productos/hallownyx/fantasma-negro-2.webp",
+        "assets/productos/dbzxnxr/b1.webp",
+        "assets/productos/dbzxnxr/b2.web",
+        "assets/productos/dbzxnxr/b3.webp",
+        "assets/productos/dbzxnxr/b4.webp",
       ]},
     ],
     tallas:["XS","S","M","L","XL"], cortes:["Regular","Oversize","Boxy"],
-    descripcion:"Edición especial Hallownyx.",
-    masVisto:false, destacado:false, disponible:false, linkPago:"#",
+    descripcion:"El poder oculto es el unico que te guarda",
+    masVisto:false, destacado:false, disponible:true, linkPago:"#",
   },
   {
-    id:303, nombre:"B****", coleccion:"***", categoria:"prendas",
-    precio:99.99, precioTachado:1000.00,
+    id:303, nombre:"Black goku X", coleccion:"dbzxnxr", categoria:"prendas",
+    precio:30.75, precioTachado:45.00,
     colores:[
       { nombre:"Negro", hex:"#111111", imagenes:[
-        "assets/productos/hallownyx/hallownyx-negro-1.webp",
-        "assets/productos/hallownyx/hallownyx-negro-2.webp",
+        "assets/productos/dbzxnxr/gb1.webp",
+        "assets/productos/dbzxnxr/gb2.web",
+        "assets/productos/dbzxnxr/gb3.webp",
+        "assets/productos/dbzxnxr/gb4.webp",
       ]},
     ],
     tallas:["XS","S","M","L","XL"], cortes:["Regular","Oversize","Boxy"],
-    descripcion:"Edición especial Hallownyx.",
-    masVisto:false, destacado:false, disponible:false, linkPago:"#",
-  },
-  {
-    id:304, nombre:"G*****", coleccion:"***", categoria:"prendas",
-    precio:99.99, precioTachado:1000.00,
-    colores:[
-      { nombre:"Negro", hex:"#111111", imagenes:[
-        "assets/productos/hallownyx/wazpsmoke-negro-1.webp",
-        "assets/productos/hallownyx/wazpsmoke-negro-2.webp",
-      ]},
-    ],
-    tallas:["XS","S","M","L","XL"], cortes:["Regular","Oversize","Boxy"],
-    descripcion:"Edición especial Hallownyx.",
-    masVisto:false, destacado:false, disponible:false, linkPago:"#",
-  },
-  {
-    id:305, nombre:"G****", coleccion:"***", categoria:"prendas",
-    precio:99.99, precioTachado:1000.00,
-    colores:[
-      { nombre:"Negro", hex:"#111111", imagenes:[
-        "assets/productos/hallownyx/hallonyx-negro-1.webp",
-        "assets/productos/hallownyx/hallonyx-negro-2.webp",
-      ]},
-    ],
-    tallas:["XS","S","M","L","XL"], cortes:["Regular","Oversize","Boxy"],
-    descripcion:"Edición especial Hallownyx.",
-    masVisto:false, destacado:false, disponible:false, linkPago:"#",
-  },
-  {
-    id:306, nombre:"V****", coleccion:"***", categoria:"prendas",
-    precio:99.99, precioTachado:1000.00,
-    colores:[
-      { nombre:"Negro", hex:"#111111", imagenes:[
-        "assets/productos/hallownyx/zombie-negro-1.webp",
-        "assets/productos/hallownyx/zombie-negro-2.webp",
-      ]},
-    ],
-    tallas:["XS","S","M","L","XL"], cortes:["Regular","Oversize","Boxy"],
-    descripcion:"Edición especial Hallownyx.",
-    masVisto:false, destacado:false, disponible:false, linkPago:"#",
+    descripcion:"La venganza es lo unico que te alimenta",
+    masVisto:false, destacado:false, disponible:true, linkPago:"#",
   },
 
   /* ═══════════════════════════════════
